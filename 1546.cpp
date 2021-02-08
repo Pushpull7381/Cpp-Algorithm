@@ -17,6 +17,5 @@ int main() {
     for (int i = 0; i < N;i++) {
         sum = sum + sub[i] / check * 100;
     }
-
         cout << sum/N;
 }
